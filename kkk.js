@@ -1,0 +1,1 @@
+var xinxin = '22'; 
